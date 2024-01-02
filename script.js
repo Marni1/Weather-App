@@ -6,7 +6,7 @@ const photo = document.querySelector('.photo')
 const weather = document.querySelector('.weather')
 const temperature = document.querySelector('.temperature')
 const humidity = document.querySelector('.humidity')
-const API_KEY = "1f87e0063bfe4b8b082f95b9a3b6cafa"
+const API_KEY = "c7987c52a0c23154f044de53cd9e443d"
 
 
 
